@@ -1,0 +1,46 @@
+body{
+    background-color:rgb(241, 235, 221);
+}
+.form-inline .btn{
+    margin-left: 7px;
+}
+.fixed-img{
+    background-image:url("../images/wood-table-top-blur-living-room-have-sofa-armchair-3d-rendering.jpg") ;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 300px;
+}
+.my-header{
+    background-color:rgba(70, 68, 68, 0.7);
+}
+.card-header .accicon {
+  float: right;
+  font-size: 20px;  
+  width: 1.2em;
+}
+.card-header:not(.collapsed) .rotate-icon {
+    transform: rotate(180deg);
+}
+.card-header:hover{
+    background-color: rgb(211, 241, 235);
+}
+.h-body{
+    background-color: rgb(92, 177, 184);
+}
+.btn-coll:hover{
+    color: #17a2b8;
+}
+.a-here{
+    color: rgb(135, 204, 135);
+}
+.carousel-inner .carousel-caption {
+    background: rgba(200, 200, 200, 0.5);
+    border-radius: 7px;
+}
+.navbar-brand:hover{
+        text-shadow: 8px 8px 20px #fff,-8px -8px 20px #fff;
+}
+.card-body-coll{
+    background-color:rgb(241, 235, 221);
+
+}
